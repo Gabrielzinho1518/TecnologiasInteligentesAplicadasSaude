@@ -16,7 +16,6 @@ O desenvolvimento seguiu as boas práticas da metodologia ágil **Feature-Driven
 
 ## Classificação da rotina da saúde
 
- Categoria  Classificação  Justificativa
  **Diagnóstico**: Não, O sistema não identifica doenças nem realiza diagnóstico clínico.
  
  **Monitoramento** Sim (principal) O sistema acompanha o uso dos medicamentos, registra o histórico de utilização, exibe as medicações do dia e envia lembretes por SMS para promover a adesão ao tratamento. 
