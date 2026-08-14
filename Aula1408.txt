@@ -1,0 +1,15 @@
+-> Treinamento de modelo 
+    -regra de negócio: atributos a serem avaliados
+
+-> ETL: significa Extract, Load, Transform (Extrair, Carregar e Transformar)
+-> ELT: Organização de dados pré-treinamento
+        -BD
+            -plugins de conexão de pandas com SGBD
+            - csv
+            -padronizar a estrutura de dados com SGBD
+            -pandas-> faz o ETL
+            -dataframes: são armazenados pós ETL
+            -numpy-> Tratamento de bases    
+
+-> Definição de previsão e predição
+-> Amostras
