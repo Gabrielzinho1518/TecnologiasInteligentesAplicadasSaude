@@ -1,0 +1,25 @@
+Aula 21/08/2026
+
+Problema (Contexto)
+
+1ª -> Definir Predição ou Previsão 
+2º -> Escolher BD
+3º -> Aplicar ETL
+4º -> Definir o modelo -> BenchMark
+
+Tipos de modelos:
+
+3.K. NEAREST NEIGHBORS (KNN) 
+Classifica com base nos vizinhos (n_neighbors_5).
+
+4.Support 
+
+5.Naive Bayes 
+-> Teorema de Bayes 
+Baseado em matemática
+Rápido e eficiente
+
+6.XGBoost / LightGBM / CatBoost ( Modelos externos )
+requer instalações externas
+
+-> pip install XGBoost 
